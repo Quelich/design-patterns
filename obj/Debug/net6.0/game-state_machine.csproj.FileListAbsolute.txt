@@ -1,0 +1,15 @@
+C:\Projects\csharp-projects\game-state_machine\bin\Debug\net6.0\game-state_machine.exe
+C:\Projects\csharp-projects\game-state_machine\bin\Debug\net6.0\game-state_machine.deps.json
+C:\Projects\csharp-projects\game-state_machine\bin\Debug\net6.0\game-state_machine.runtimeconfig.json
+C:\Projects\csharp-projects\game-state_machine\bin\Debug\net6.0\game-state_machine.dll
+C:\Projects\csharp-projects\game-state_machine\bin\Debug\net6.0\game-state_machine.pdb
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\game-state_machine.csproj.AssemblyReference.cache
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\game-state_machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\game-state_machine.AssemblyInfoInputs.cache
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\game-state_machine.AssemblyInfo.cs
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\game-state_machine.csproj.CoreCompileInputs.cache
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\game-state_machine.dll
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\refint\game-state_machine.dll
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\game-state_machine.pdb
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\game-state_machine.genruntimeconfig.cache
+C:\Projects\csharp-projects\game-state_machine\obj\Debug\net6.0\ref\game-state_machine.dll
