@@ -2,21 +2,21 @@ namespace Quelich.StateMachine;
 
 internal class StateMachine
 {   
-    static void Main(string[] args)
-    {
-        var context = new Context(new IdleState());
-        context.Request();
-        context.TransitionTo(context.PlayState);
-        context.Request();
-        context.TransitionTo(context.PauseState);
-        context.Request();
-        context.TransitionTo(context.PlayState);
-        context.Request();
-        context.TransitionTo(context.EndState);
-        context.Request();
-        context.TransitionTo(context.IdleState);
-        context.Request();
-    }
+    // static void Main(string[] args)
+    // {
+    //     var context = new Context(new IdleState());
+    //     context.Request();
+    //     context.TransitionTo(context.PlayState);
+    //     context.Request();
+    //     context.TransitionTo(context.PauseState);
+    //     context.Request();
+    //     context.TransitionTo(context.PlayState);
+    //     context.Request();
+    //     context.TransitionTo(context.EndState);
+    //     context.Request();
+    //     context.TransitionTo(context.IdleState);
+    //     context.Request();
+    // }
 }
 
 class Context
