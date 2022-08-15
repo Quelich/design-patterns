@@ -1,6 +1,6 @@
 namespace Quelich.StateMachine;
 
-internal class Program
+internal class StateMachine
 {   
     static void Main(string[] args)
     {
